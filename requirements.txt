@@ -1,0 +1,5 @@
+pypng==0.0.21
+PyQRCode==1.2.1
+python-barcode==0.13.1
+reportlab==3.6.9
+requests==2.27.1
